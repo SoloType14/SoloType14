@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SoloType14
 - 👀 I’m interested in reading manga,manhua,manhwa and cultured stuff XD
 - 🌱 I’m currently learning python on my free time.
-- 📫 How to reach me- @datsuraku147@wearehackerone.com
+- 📫 How to reach me- datsuraku147@wearehackerone.com
+- Twitter - [MDatsuraku](https://twitter.com/MDatsuraku)
 
 <!---
 SoloType14/SoloType14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
